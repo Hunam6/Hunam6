@@ -22,7 +22,6 @@ Name|Description|Role|Langs/Tools|Topics|Link
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=20 height=20 /> Git          |         | |                | |5️⃣
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=20 height=20 /> Github       |         | |                | |5️⃣
 <img src="https://github.com/Hunam6/Hunam6/assets/38606542/3a457119-f8b7-4222-bdef-088acde67aed" width=20 height=20 /> Github Action|         | |3️⃣                | |
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=20 height=20 /> VSCode       |         | |                | |5️⃣
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=20 height=20 /> JavaScript   |         | |                |4️⃣|
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=20 height=20 /> TypeScript   |         | |                |4️⃣|
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=20 height=20 /> Python       |         | |3️⃣               | |
@@ -32,4 +31,5 @@ Name|Description|Role|Langs/Tools|Topics|Link
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=20 height=20 /> NodeJS       |         | |3️⃣               | |
 <img src="https://github.com/Hunam6/Hunam6/assets/38606542/c852562d-333c-4fc7-81c6-4ce24d2f6752" width=20 height=20 /> Make         |         | |                |4️⃣|
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" width=20 height=20 /> Deno         |         | |                |4️⃣|
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=20 height=20 /> VSCode       |         | |                | |5️⃣
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=20 height=20 /> Figma        |         |2️⃣|                | |
