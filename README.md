@@ -19,8 +19,8 @@ Name|Description|Role|Langs/Tools|Topics|Link
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=20 height=20 /> Go           |         | |                |4️⃣|
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width=20 height=20 /> C            |         | |                | |5️⃣
 <img src="https://github.com/Hunam6/Hunam6/assets/38606542/abb25567-28d7-4945-8a51-ca324ad096cf" width=20 height=20 /> V            |         | |                | |5️⃣
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=20 height=20 /> Github       |         | |                | |5️⃣
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=20 height=20 /> Git          |         | |                | |5️⃣
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=20 height=20 /> Github       |         | |                | |5️⃣
 <img src="https://github.com/Hunam6/Hunam6/assets/38606542/3a457119-f8b7-4222-bdef-088acde67aed" width=20 height=20 /> Github Action|         | |3️⃣                | |
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=20 height=20 /> VSCode       |         | |                | |5️⃣
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=20 height=20 /> JavaScript   |         | |                |4️⃣|
