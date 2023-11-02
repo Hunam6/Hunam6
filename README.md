@@ -1,5 +1,3 @@
-# Passionate developer, excellent problem solver and super-fast learner. Strong team player.
----
 ## Most important projects
 
 Name|Description|Role|Langs/Tools|Topics|Link
